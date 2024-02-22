@@ -1,0 +1,3 @@
+[submodule "phyphox_m_pcb"]
+	path = phyphox_m_pcb
+	url = https://github.com/Dorsel89/phyphox_m_pcb
