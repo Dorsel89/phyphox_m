@@ -1,3 +1,9 @@
 [submodule "phyphox_m_pcb"]
 	path = phyphox_m_pcb
 	url = https://github.com/Dorsel89/phyphox_m_pcb
+[submodule "phyphox_m_firmware"]
+	path = phyphox_m_firmware
+	url = https://github.com/Dorsel89/phyphox_m_firmware
+[submodule "phyphox_m_experiments"]
+	path = phyphox_m_experiments
+	url = https://github.com/Dorsel89/phyphox_m_experiments
